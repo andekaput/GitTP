@@ -14,6 +14,9 @@ print(greet("Dev.A"))
 import random
 print("Lucky number:", random.randint(1, 100))
 
+from dev_B_tools import square
+print("Square of 4:", square(4))
+
 # Step 4: Final message
 # print("Great job completing the steps!")
 
