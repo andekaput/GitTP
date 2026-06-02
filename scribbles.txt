@@ -1,1 +1,3 @@
 Actually the first stage should've been cloning the repo, but I ended up doing fork instead. 
+
+The idea is: never work directly on main. Always create a branch for new features/tasks, then merge it back when done.
