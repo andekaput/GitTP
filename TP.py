@@ -5,6 +5,7 @@ print("Welcome to the Git exercise!")
 def subtract(a, b):
      return a - b  # Bug: should be a - b
 print("6 - 2 =", subtract(6, 2))
+print("I am adding this line")
 
 # Step 3: Random fun
 # import random
