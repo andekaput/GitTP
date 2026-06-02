@@ -6,6 +6,9 @@ def subtract(a, b):
      return a - b  # Bug: should be a - b
 print("6 - 2 =", subtract(6, 2))
 
+from dev_A_tools import greet
+print(greet("Dev.A"))
+
 # Step 3: Random fun
 # import random
 # print("Lucky number:", random.randint(1, 100))
