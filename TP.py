@@ -18,7 +18,7 @@ from dev_B_tools import square
 print("Square of 4:", square(4))
 
 # Step 4: Final message
-print("Congratulations!")
+print("Congratulations, blabla!")
 
 # Step 5: Multiplication
 # def multiply(a, b):
