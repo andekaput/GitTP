@@ -1,7 +1,4 @@
 touch # A small project to practice git 
-
-brocolis
-
 In this exercise, you’ll work with a Python script (`TP.py`), uncomment sections step-by-step by removing `#` before each line, commit changes, and run the script to see the output. The project runs in GitHub Codespaces and focuses on Git essentials with immediate feedback. The script starts empty and grows as you uncomment sections—perfect for learning Git workflows collaboratively.
 
 Work in pairs (***Dev.A*** and ***Dev.B***) to achieve efficiency.
